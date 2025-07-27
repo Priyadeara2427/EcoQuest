@@ -21,12 +21,3 @@ In this game, players:
 ✅ **Multiple levels with increasing complexity**  
 ✅ **Dynamic feedback system for success and failure**  
 ✅ **Engaging UI and animations**  
-
----
-
-## 🛠️ Installation & Setup
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/your-username/groundwater-game.git
-cd groundwater-game
